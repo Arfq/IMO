@@ -1,1 +1,1 @@
-# SOM
+# SOM - Simple optimization minecraf
