@@ -1,4 +1,4 @@
-# IOM - improved minecraft optimization
+# IMO - improved minecraft optimization
 ## Features
 
 - Improved game optimization + with shaders
